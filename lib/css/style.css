@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+
+}
+a:link.panel-title,a:visited.panel-title,a:hover.panel-title,a:active.panel-title{
+	text-decoration: none;
+}
+header image{float:left;}
+h1{float: right;}
+a:visited{color:#000066;}
+/*fix nav and content in extra small devices, e.g. smartphones*/
+@media (max-width: 767px){
+	
+}
+
+/*fix nav and content in small devices, e.g. tablets*/
+@media(min-width:768px) and (max-width: 991px) {
+	
+	
+}
+/*medium devices e.g., tablets*/
+@media(min-width:992px) and (max-width: 1199px) {
+	
+}
+
+
+
