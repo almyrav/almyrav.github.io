@@ -162,9 +162,9 @@ address, .footer-heading{margin-left: 25%;}
 /* Make sure that all arrows are pointing leftwards */
   .container::before {
     left: 60px;
-    border: medium solid black;
+    border: medium solid rgba(0,51,102,.4);
     border-width: 10px 10px 10px 0;
-    border-color: transparent black transparent transparent;
+    border-color: transparent rgba(0,51,102,.4) transparent transparent;
   }
 
 /* Make sure all circles are at the same spot */
