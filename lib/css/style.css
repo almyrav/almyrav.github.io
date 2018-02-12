@@ -6,9 +6,7 @@
 
 /* Set a background color */
 body {
-  background-image: url("../images/bryan-goff-360297.jpg");
-  background-size: cover;
-  background-attachment: fixed;
+  background-color: #fefefe;
   font-family: Helvetica, sans-serif;
   color: white;
 }
