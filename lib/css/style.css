@@ -10,10 +10,12 @@ body {
   font-family: Helvetica, sans-serif;
   color: white;
 }
-
+header{
+  padding: 10px;
+}
 #bg-video{
   position: fixed;
-  right: 0;
+  right: 5px;
   bottom: 0;
   min-width: 100%; 
   min-height: 100%;
@@ -182,6 +184,10 @@ address, .footer-heading{margin-left: 25%;}
 /* Make all right containers behave like the left ones */
   .right {
     left: 0%;
+  }
+  #bg-video{
+    top: -18px;
+    left: -26px;
   }
   
 }
